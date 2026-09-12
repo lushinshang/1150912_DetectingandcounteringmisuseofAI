@@ -32,4 +32,4 @@ Anthropic 於 2026 年 9 月 10 日發布的威脅情報報告《Detecting and c
 
 - 全文事實內容已經過獨立 subagent 查證（GTG 案例編號、數字、圖片內容比對原文），並經編輯潤飾去除 AI 產製痕跡
 - HTML 已通過結構檢查（`lang="zh-Hant-TW"`、單一 `<main>`、圖片 alt 文字）、1440×900 桌面與 390×844 手機雙視窗截圖驗收、外部連結逐一開啟確認（6 個連結皆回應 200）
-- 已發布於 GitHub Pages：<!-- PUBLISHED_URL_PLACEHOLDER -->
+- 已發布於 GitHub Pages：<https://lushinshang.github.io/1150912_DetectingandcounteringmisuseofAI/>（發布於 2026-09-12）
